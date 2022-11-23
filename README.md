@@ -505,7 +505,7 @@ These are prevalent technologies but not part of this study plan:
 
 This course goes over a lot of subjects. Each will probably take you a few days, or maybe even a week or more. It depends on your schedule.
 
-Each day, take the next subject in the list, watch some videos about that subject, and then write an implementation 
+>> Each day, take the next subject in the list, watch some videos about that subject, and then write an implementation 
 of that data structure or algorithm in the language you chose for this course.
 
 You can see my code here:
@@ -547,7 +547,7 @@ Gets messy quick. **I use a pencil and eraser.**
 
 Don't forget your key coding interview books [here](#interview-prep-books).
 
-Solving Problems:
+>> Solving Problems:
 - [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
 - [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/thrive/articles/How%20To%20Dissect%20a%20Topcoder%20Problem%20Statement%20Content)
 
@@ -579,7 +579,7 @@ Challenge/Practice sites:
 
 Alright, enough talk, let's learn!
 
-But don't forget to do coding problems from above while you learn!
+>> But don't forget to do coding problems from above while you learn!
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
@@ -587,7 +587,7 @@ But don't forget to do coding problems from above while you learn!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
